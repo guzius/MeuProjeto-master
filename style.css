@@ -30,6 +30,20 @@ h1 {
   color: transparent;
 }
 
+@media (max-width: 991px)
+  {
+    h1 {
+      font-size: 3.2vw;
+    }
+}
+
+@media (max-width: 767px)
+  {
+    h1 {
+      font-size: 5.2vw;
+    }
+}
+
 #banner{
   display: block;
   margin: 0 auto;
