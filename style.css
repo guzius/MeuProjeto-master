@@ -1,0 +1,298 @@
+body {
+  background-image: url("Imagens/1092728.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.barra {
+  background-color: black;
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 2%;
+  margin-top: 7%;
+  padding: 0.5%;
+  border-radius: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Aero;
+  font-weight: normal;
+  font-size: 3vw;
+  margin: 0 auto;
+  margin-bottom: 1%;
+  border-radius: 10px;
+  text-transform: uppercase;
+  background-image: linear-gradient(#d30cb8, #6df1d8, #5c2c6d);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+#banner{
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.75);
+  border-radius: 10px;
+  justify-content: space-evenly;
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  margin: 15px;
+}
+
+.box:hover {
+  animation: bounce 0.5s linear;
+}
+
+@keyframes bounce {
+	20% {
+			transform: translateY(-6px);
+	}
+	40% {
+			transform: translateY(0px);
+	}
+
+	80% {
+			transform: translateY(-2px);
+	}
+	100% {
+			transform: translateY(0);
+	}
+}
+
+.one {
+  background-image: url("Jogos/Alien\ Trilogy.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.two {
+  background-image: url("Jogos/Mortal\ Kombat\ Trilogy.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.three {
+  background-image: url("Jogos/Disney's\ Hercules.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.four {
+  background-image: url("Jogos/Rampage\ World\ Tour.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.five {
+  background-image: url("Jogos/Mortal\ Kombat\ Mythologies\ -\ Sub-Zero.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.six {
+  background-image: url("Jogos/Nightmare\ Creatures.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.seven {
+  background-image: url("Jogos/Tomb\ Raider\ II.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.eight {
+  background-image: url("Jogos/Mortal\ Kombat\ 4.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.nine {
+  background-image: url("Jogos/The\ Lost\ World\ -\ Jurassic\ Park.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.ten {
+  background-image: url("Jogos/Ninja\ -\ Shadow\ of\ Darkness.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.eleven {
+  background-image: url("Jogos/Tomb\ Raider\ III\ -\ Adventures\ of\ Lara\ Croft.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twelve {
+  background-image: url("Jogos/Silent\ Hill.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirteen {
+  background-image: url("Jogos/Pepsiman.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.fourteen {
+  background-image: url("Jogos/Rampage\ 2\ -\ Universal\ Tour.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.fifteen {
+  background-image: url("Jogos/Disney's\ Tarzan.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.sixteen {
+  background-image: url("Jogos/Metal\ Gear\ Solid.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.seventeen {
+  background-image: url("Jogos/Dino\ Crisis.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.eighteen {
+  background-image: url("Jogos/Hot\ Wheels\ -\ Turbo\ Racing.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.nineteen {
+  background-image: url("Jogos/Pac-Man\ World.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty {
+  background-image: url("Jogos/Warpath\ -\ Jurassic\ Park.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-one {
+  background-image: url("Jogos/Medal\ of\ Honor.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-two {
+  background-image: url("Jogos/Tomb\ Raider\ -\ The\ Last\ Revelation.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-three {
+  background-image: url("Jogos/Toy\ Story\ 2\ -\ Buzz\ Lightyear\ to\ the\ Rescue.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-four {
+  background-image: url("Jogos/Jackie\ Chan's\ Stuntmaster.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-five {
+  background-image: url("Jogos/Nightmare\ Creatures\ II.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-six {
+  background-image: url("Jogos/Rampage\ Through\ Time.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-seven {
+  background-image: url("Jogos/Resident\ Evil\ Survivor.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-eight {
+  background-image: url("Jogos/Spider-Man.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.twenty-nine {
+  background-image: url("Jogos/Dino\ Crisis\ 2.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirty {
+  background-image: url("Jogos/Alien\ Resurrection.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirty-one {
+  background-image: url("Jogos/Medal\ of\ Honor\ -\ Underground.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirty-two {
+  background-image: url("Jogos/Tomb\ Raider\ -\ Chronicles.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirty-three {
+  background-image: url("Jogos/Evil\ Dead\ -\ Hail\ to\ the\ King.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirty-four {
+  background-image: url("Jogos/Disney\'s\ The\ Lion\ King\ -\ Simba\'s\ Mighty\ Adventure.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirty-five {
+  background-image: url("Jogos/Disney\'s\ Aladdin\ in\ Nasira\'s\ Revenge.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+.thirty-six {
+  background-image: url("Jogos/Spider-Man\ 2\ -\ Enter\ Electro.jpg");
+  background-size: contain;
+  background-repeat: round;
+}
+
+@font-face {
+  font-family: Aero;
+  src: local(Aero), url(Fontes/AerologicaRegular-K7day.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
