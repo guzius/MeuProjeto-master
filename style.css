@@ -167,6 +167,12 @@ border-radius: 5px;
     text-align: center;
     font-size: 3vw;
   }
+  label {
+    color: white;
+    text-align: center;
+    font-size: small;
+    margin-top: 3%;
+}
 }
 
 #banner{
