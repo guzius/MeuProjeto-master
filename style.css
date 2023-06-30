@@ -161,7 +161,12 @@ border-radius: 5px;
     -webkit-background-clip: text;
     color: transparent;
     list-style: none;
-}
+  }
+  p {
+    color: white;
+    text-align: center;
+    font-size: 3vw;
+  }
 }
 
 #banner{
